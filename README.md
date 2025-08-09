@@ -1,96 +1,76 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Comeback Club 🎯  
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Code wizards]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Angeleena Sajy ] - [Viswajyothi College of Engineering and Technology, Vazhakulam]
+- Member 2: [Anna Ajay] - [Viswajyothi College of Engineering and Technology, Vazhakulam]
 
 ### Project Description
-[2-3 lines about what your project does]
+[A playful simulation app where you face nosy questions, craft your perfect reply, and finally get the last word- without the real life drama]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[People everywhere suffer from "Delayed Comeback Syndrome". The inability to think of the perfect reply until hours later.]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[A chat simulator that lets you deliver those comebacks in a fake conversation, purely for your own satisfaction.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [Languages used] - CSS, HTML, Python, Javascript
+- [Frameworks used] - Fastapi
+- [Libraries used] -  Google Gen AI, pydanatic
+- [Tools used] - Google Gemini API (accessed via REST API with fetch in JavaScript),
+Standard browser DOM APIs for UI and event handling,
+CSS for layout and styling (including responsive design)
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+
 
 ### Implementation
-For Software:
+For Software: 
+Since Nosy is a front-end app built with HTML, CSS, and JavaScript and uses Gemini AI via an API, you don't need heavy setup. Just make sure you have the following:
+
+Requirements:
+
+Node.js (optional, if you want to run a local server)
+
+A web browser (Chrome/Edge/Firefox)
+
+Your Gemini AI API key
 # Installation
-[commands]
+# Clone the repository
+git clone https://github.com/your-username/nosy.git
+
+# Go into the project folder
+cd nosy
 
 # Run
-[commands]
+Use live server extention
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1](https://github.com/annaajaynpta/nosy-frontend/blob/main/Screenshot%20(2).png)
+This is the home screen, where the user can describe their incident and type in the questions they want to ask.
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2]((https://github.com/annaajaynpta/nosy-frontend/blob/main/Screenshot%20(3).png)
+Now it's Nosy's turn to respond.
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot3](https://github.com/annaajaynpta/nosy-frontend/blob/main/Screenshot%20(4).png))
+The user then types their next question
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Angeleena Sajy]: [Ideation front end]
+- [Anna Ajay]: [HTML, CSS, JAVASCRIPT, GEMINI AI]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
